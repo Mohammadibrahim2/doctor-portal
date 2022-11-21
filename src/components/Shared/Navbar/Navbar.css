@@ -1,0 +1,12 @@
+.NAV{
+    width:100vw;
+    height: 64px;
+    position:absolute
+}
+ul{
+    margin-right: 20px;
+}
+ul>li{
+    margin-right: 25px;
+    
+}
